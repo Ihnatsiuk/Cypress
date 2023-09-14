@@ -30,11 +30,11 @@ Before you can run the tests in this project, you need to have the following sof
 
 1. Clone this repository to your local machine:
 
-   git clone https://github.com/your-username/cypress-cucumber.git
+   git clone https://github.com/Ihnatsiuk/Cypress.git
 
 2. Change to the project directory:
 
-   cd cypress-cucumber
+   cd cypress
 
 3. Install the project dependencies:
 
